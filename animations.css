@@ -1,0 +1,107 @@
+@keyframes offset{
+	100%{
+		stroke-dashoffset: 0;
+	}
+}
+.fade{
+	opacity:0;
+	animation: turnon 1s ease-in forwards;
+	animation-delay: 1s;
+}
+
+.line{
+	animation: offset 1s linear forwards;
+	
+}
+
+#line1{
+	stroke-dashoffset: 191;
+	stroke-dasharray: 191;
+}
+#line2{
+	stroke-dashoffset: 390;
+	stroke-dasharray: 390;
+}
+#line3{
+	stroke-dashoffset: 162;
+	stroke-dasharray: 162;
+}
+
+#line6{
+	stroke-dashoffset: 69;
+	stroke-dasharray: 69;
+}
+#line7{
+	stroke-dashoffset: 68;
+	stroke-dasharray: 68;
+}
+
+.homeContent{
+	opacity: 0;
+	animation: turnon 1s ease-in-out forwards;
+	animation-delay: 3.4s;
+}
+
+.cardBottom:hover > .homeIcon{
+	animation: swing .7s ease-in-out;
+}
+.cordBG{
+	animation: turndown 6s linear forwards;
+	animation-delay: 3.4s;
+}
+
+@keyframes turnon{
+	0%{
+		opacity: 0;
+	}
+	
+	100%{
+		opacity: 1;
+	}
+}
+@keyframes turndown{
+	0%{
+		opacity: 1;
+	}
+	
+	100%{
+		opacity: 0.1 ;
+	}
+}
+
+
+@keyframes swing {
+    0% {
+        transform:rotate(0deg);
+    }
+    10% {
+        transform:rotate(16deg);
+		transform-origin: center top;
+    }
+	
+	50%{
+		transform:rotate(-16deg);
+		transform-origin: center top;
+	}
+	80%{
+		transform:rotate(13deg);
+		transform-origin: center top;
+	}
+}
+
+@keyframes grow {
+	to{
+		transform: scale(1);
+	}
+	from{
+	  transform: scale(1.5);
+	}
+}
+
+
+
+
+
+
+
+

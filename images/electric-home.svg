@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="765px" height="566px" viewBox="0 0 765 566" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>electric-home</title>
+    <desc>Created with Sketch.</desc>
+    <g id="electric-home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-group" transform="translate(51.000000, 27.000000)" fill-rule="nonzero">
+            <polyline id="line2" stroke="#21292D" stroke-width="3" stroke-linejoin="round" points="230 401 230 468 549 468"></polyline>
+            <path d="M358.5,43.5 L358.5,234" id="line1" stroke="#21292D" stroke-width="3"></path>
+            <polyline id="houseLine" stroke="#21292D" stroke-width="34" points="469.074423 120.486683 661 276.995157 563.305031 276.995157 563.305031 513 103.237945 513 103.237945 276.995157 0 276.995157 330.5 0 411.566038 69.559322 411.566038 6.83171913 563.305031 6.83171913 563.305031 198.119855"></polyline>
+            <path d="M389,279 L550.5,279" id="line3" stroke="#21292D" stroke-width="5"></path>
+            <g id="circuitBox" transform="translate(209.000000, 213.000000)">
+                <g id="Group-3" transform="translate(33.000000, 12.000000)">
+                    <rect id="Rectangle" fill="#111517" x="0" y="0" width="161" height="180"></rect>
+                    <path d="M66.1384615,96 L81,142 L81,144 L32,77 L56.5901639,77 L38,35 L76,35 L76,96 L66.1384615,96 Z" id="Combined-Shape" fill="#8CD004"></path>
+                    <path d="M116.109066,95 L126,127.567164 L126,129 L93,81 L109.595694,81 L97,51 L123,51 L123,95 L116.109066,95 Z" id="Combined-Shape-Copy" fill="#FFFFFF" transform="translate(109.500000, 90.000000) scale(-1, 1) translate(-109.500000, -90.000000) "></path>
+                </g>
+                <g id="Group-2" transform="translate(33.000000, 192.000000)">
+                    <g id="Group">
+                        <rect id="Rectangle" fill="#21292D" x="0" y="0" width="161" height="49"></rect>
+                        <rect id="Rectangle" fill="#27262B" x="9" y="6" width="142" height="38"></rect>
+                        <rect id="Rectangle" fill="#CBCBCB" x="13" y="10" width="27" height="7"></rect>
+                        <rect id="Rectangle-Copy-2" fill="#9B9B9B" x="67" y="10" width="27" height="7"></rect>
+                        <rect id="Rectangle-Copy" fill="#4A565C" x="40" y="10" width="27" height="7"></rect>
+                        <rect id="Rectangle-Copy-3" fill="#354045" x="94" y="10" width="27" height="7"></rect>
+                        <rect id="Rectangle-Copy-4" fill="#8CD004" x="121" y="10" width="26" height="7"></rect>
+                        <path d="M33,15.6752866 L33,23 C33,29 30,32 24,32 C18,32 14,32 12,32" id="Path-2" stroke="#CBCBCB" stroke-width="2"></path>
+                        <path d="M54,15.6752866 L54,26 C54,30 56.3333333,32 61,32 C65.6666667,32 94.6666667,32 148,32" id="Path-3" stroke="#4A565C" stroke-width="2"></path>
+                        <path d="M82,15.6752866 L82,32 C82,35.3333333 79,37 73,37 C67,37 46.6666667,37 12,37" id="Path-4" stroke="#9B9B9B" stroke-width="2"></path>
+                        <path d="M107,15 L107,36 C107,38 109.333333,39 114,39 C118.666667,39 130,39 148,39" id="Path-5" stroke="#354045" stroke-width="2"></path>
+                        <path d="M135,15.6752866 L135,20 C135,22.4108318 133.333333,23.6162478 130,23.6162478 C126.666667,23.6162478 87.3333333,23.6162478 12,23.6162478" id="Path-6" stroke="#8CD004" stroke-width="2"></path>
+                        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="4" x="11" y="8" width="138" height="34"></rect>
+                    </g>
+                    <path d="M35.5,8 L35.5,43" id="Path-7" stroke="#FFFFFF" stroke-width="3"></path>
+                    <path d="M65.5,9 L65.5,44" id="Path-7-Copy" stroke="#FFFFFF" stroke-width="3"></path>
+                    <path d="M93.5,9 L93.5,44" id="Path-7-Copy-2" stroke="#FFFFFF" stroke-width="3"></path>
+                    <path d="M124,9 L124,44" id="Path-7-Copy-3" stroke="#FFFFFF" stroke-width="3"></path>
+                </g>
+                <rect id="Rectangle" fill="#21292D" x="0" y="101" width="33" height="72"></rect>
+                <rect id="Rectangle" fill="#D8D8D8" x="155" y="0" width="31" height="12"></rect>
+                <rect id="Rectangle-Copy-6" fill="#D8D8D8" transform="translate(27.000000, 80.500000) scale(-1, -1) rotate(90.000000) translate(-27.000000, -80.500000) " x="11.5" y="74.5" width="31" height="12"></rect>
+                <rect id="Rectangle-Copy-5" fill="#21292D" x="112" y="0" width="31" height="12"></rect>
+                <rect id="Rectangle-Copy-7" fill="#21292D" transform="translate(27.000000, 46.500000) rotate(90.000000) translate(-27.000000, -46.500000) " x="11.5" y="40.5" width="31" height="12"></rect>
+                <rect id="Rectangle" fill="#000000" x="0" y="173" width="33" height="19"></rect>
+            </g>
+            <polyline id="line5" stroke="#21292D" stroke-width="3" stroke-linejoin="round" points="338 216 338 180 213 180 213 260 235 260"></polyline>
+            <polyline id="line4" stroke="#D8D8D8" stroke-width="3" points="379 214 379 168 195 168 195 291 237 291"></polyline>
+            <path d="M195,375.5 L213,375.5" id="Path-18" stroke="#21292D" stroke-width="3"></path>
+            <path d="M195,382 L212,382" id="Path-19" stroke="#21292D" stroke-width="3"></path>
+            <rect id="Rectangle" fill="#21292D" x="183" y="370" width="12" height="17"></rect>
+            <path d="M185,371.5 L116,371.5" id="line6" stroke="#21292D" stroke-width="3"></path>
+            <path d="M184,385.5 L116,385.5" id="line7" stroke="#21292D" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>
