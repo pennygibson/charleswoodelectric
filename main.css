@@ -33,7 +33,6 @@ body{
 	font-weight:300;
 	letter-spacing: 0.02em;
 	line-height: 26px;
-	scroll-behavior: smooth;
 }
 
 :focus  { outline: 0; }
@@ -438,11 +437,12 @@ MEDIA QUERIES
 		max-width:100%;
 		max-height: 300px;
 	}
-}
-@media(max-width:1100px){
 	.cardContainer{
 		width:80%;
 	}
+}
+@media(max-width:1100px){
+	
 	.largeLogo img{
 		max-width: 380px;
 	}
